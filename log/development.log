@@ -28920,3 +28920,4 @@ Started GET "/assets/RS.mp3" for 127.0.0.1 at 2015-08-05 20:36:21 -0700
 
 
 Started GET "/assets/MA.mp3" for 127.0.0.1 at 2015-08-05 20:36:21 -0700
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
